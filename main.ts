@@ -1,0 +1,5 @@
+maqueen.motorRun(maqueen.Motors.All, maqueen.Dir.CW, 50)
+basic.pause(2000)
+maqueen.motorStop(maqueen.Motors.M1)
+basic.pause(1250)
+maqueen.motorStop(maqueen.Motors.All)
